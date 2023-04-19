@@ -1,0 +1,5 @@
+# 南京农业大学学报自然科学论文模板
+
+将tex文件与bib文件导入到overleaf项目中切换XeLaTex编译即可
+
+发现别的学校都有latex模板 我们不能没有！ 我又没有找到怎么在overleaf上传 所以传到了github 欢迎star~
